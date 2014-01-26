@@ -1,4 +1,5 @@
 #summary PeaZip free archiver FAQ and Tips&Tricks
+#labels Featured
 
 = PeaZip FAQ higlights =
 
