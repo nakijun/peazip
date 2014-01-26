@@ -36,3 +36,33 @@
 [http://peazip.sourceforge.net/share-files-sharing.html Share files with PeaZip]
 
 [http://peazip.sourceforge.net/file-split.html Split and join files with PeaZip]
+
+*Security*
+
+[http://peazip.sourceforge.net/encrypt-files.html How to encrypt archives?]
+
+[http://peazip.sourceforge.net/extract-encrypted-files.html How to extract encrypted archives?]
+
+[http://peazip.sourceforge.net/protect-files.html How to protect files with PeaZip?]
+
+[http://peazip.sourceforge.net/secure-delete.html How to securely delete files, folders, and free space with PeaZip?]
+
+*Tips and tricks*
+
+[http://peazip.sourceforge.net/archive-file-formats-comparison.html Comparison of archive file formats]
+
+[http://peazip.sourceforge.net/free-rar-create.html How to create RAR files?]
+
+[http://peazip.sourceforge.net/peazip-free-archiver.html#free_rar_software How to provide translations, to localize PeaZip in a new language or maintain an existing translation]
+
+[http://peazip.sourceforge.net/lossless-compression-lossy-compression.html Lossy and lossless file compression definition]
+
+[http://peazip.sourceforge.net/self-extracting-archives.html Self extracting archives]
+
+[http://peazip.sourceforge.net/file-compression-performances.html Suggestions for best file compression performances]
+
+[http://peazip.sourceforge.net/what-is-zip-file.html What is a Zip file / what is an archive file?]
+
+[http://peazip.sourceforge.net/what-is-solid-compression.html What is solid compression]
+
+[http://peazip.sourceforge.net/peazip-password.html Why PeaZip asks for password / may not browse the content of some archives?]
