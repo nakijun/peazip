@@ -1,7 +1,7 @@
 #summary PeaZip free archiver FAQ and Tips&Tricks
 #labels Featured
 
-= PeaZip FAQ higlights =
+= PeaZip [http://peazip.sourceforge.net/peazip-help-faq.html FAQ] higlights =
 
 *Archive management*
 
@@ -23,6 +23,7 @@
 
 [http://peazip.sourceforge.net/zipx-files-software.html Open and extract ZIPX files]
 
+
 *File management*
 
 [http://peazip.sourceforge.net/backup-files.html Backup files with PeaZip]
@@ -37,6 +38,7 @@
 
 [http://peazip.sourceforge.net/file-split.html Split and join files with PeaZip]
 
+
 *Security*
 
 [http://peazip.sourceforge.net/encrypt-files.html How to encrypt archives?]
@@ -46,6 +48,7 @@
 [http://peazip.sourceforge.net/protect-files.html How to protect files with PeaZip?]
 
 [http://peazip.sourceforge.net/secure-delete.html How to securely delete files, folders, and free space with PeaZip?]
+
 
 *Tips and tricks*
 
