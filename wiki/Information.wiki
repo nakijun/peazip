@@ -2,6 +2,7 @@
 #labels Featured
 
 == [http://peazip.sourceforge.net/peazip-free-archiver.html Learn More] ==
+Brief translated description: [http://peazip.sourceforge.net/translation-peazip-chinese.html Chinese] [http://peazip.sourceforge.net/translation-peazip-dutch-archiveerprogramma-uitpakken.html Dutch] [http://peazip.sourceforge.net/translation-peazip-french-logiciel-compression.html French] [http://peazip.sourceforge.net/translation-peazip-german-entpacker-programme.html German] [http://peazip.sourceforge.net/translation-peazip-italiano-compressione-file.html Italian] [http://peazip.sourceforge.net/translation-peazip-japanese.html Japanese] [http://peazip.sourceforge.net/translation-peazip-portuguese-compactar-arquivos.html Portuguese] [http://peazip.sourceforge.net/translation-peazip-russian.html Russian] [http://peazip.sourceforge.net/translation-peazip-spanish-compresor-archivos.html Spanish]
 
 == [http://peazip.sourceforge.net/changelog.html Change Log] ==
 
