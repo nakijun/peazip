@@ -1,0 +1,5 @@
+#summary Learn more about PeaZip free archive manager
+
+== [http://peazip.sourceforge.net/peazip-free-archiver.html Learn More] ==
+
+== [http://peazip.sourceforge.net/changelog.html Change Log] ==
