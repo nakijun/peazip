@@ -2,7 +2,6 @@
 #labels Featured
 
 == [http://peazip.sourceforge.net/peazip-free-archiver.html Learn More] ==
-*Brief translated description: [http://peazip.sourceforge.net/translation-peazip-chinese.html Chinese] [http://peazip.sourceforge.net/translation-peazip-dutch-archiveerprogramma-uitpakken.html Dutch] [http://peazip.sourceforge.net/translation-peazip-french-logiciel-compression.html French] [http://peazip.sourceforge.net/translation-peazip-german-entpacker-programme.html German] [http://peazip.sourceforge.net/translation-peazip-italiano-compressione-file.html Italian] [http://peazip.sourceforge.net/translation-peazip-japanese.html Japanese] [http://peazip.sourceforge.net/translation-peazip-portuguese-compactar-arquivos.html Portuguese] [http://peazip.sourceforge.net/translation-peazip-russian.html Russian] [http://peazip.sourceforge.net/translation-peazip-spanish-compresor-archivos.html Spanish]*
 
 == [http://peazip.sourceforge.net/changelog.html Change Log] ==
 
@@ -15,9 +14,9 @@
 == [http://peazip.sourceforge.net/peazip-add-ons.html Addons] ==
 
 == [http://peazip.sourceforge.net/peazip-add-ons.html Online Help] ==
-*[http://peazip.sourceforge.net/search-software-resources.html Search PeaZip website]*
+*[http://peazip.sourceforge.net/search-software-resources.html Search PeaZip website and Issue tracker]*
 
-*[http://peazip.sourceforge.net/search-software-tracker.html Search PeaZip Bug Tracker]*
+*Translated tutorials - coming soon*
 
 == [http://peazip.sourceforge.net/peazip-help-faq.html FAQ] ==
 
