@@ -13,10 +13,12 @@
 
 == [http://peazip.sourceforge.net/peazip-add-ons.html Addons] ==
 
-== [http://peazip.sourceforge.net/peazip-add-ons.html Online Help] ==
-*[http://peazip.sourceforge.net/search-software-resources.html Search PeaZip website and Issue tracker]*
+== [http://peazip.sourceforge.net/peazip-help.html Online Help] ==
+*[http://peazip.sourceforge.net/search-software-resources.html Search PeaZip website]*
+*[http://peazip.sourceforge.net/search-software-tracker.html Search Issue tracker]*
 
-*Translated tutorials - coming soon*
+*Translated tutorials*
+[http://www.peazip.org/translation-peazip-arabic-tutorial.html Arabic]
 
 == [http://peazip.sourceforge.net/peazip-help-faq.html FAQ] ==
 
