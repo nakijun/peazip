@@ -17,9 +17,6 @@
 *[http://peazip.sourceforge.net/search-software-resources.html Search PeaZip website]*
 *[http://peazip.sourceforge.net/search-software-tracker.html Search Issue tracker]*
 
-*Translated tutorials*
-[http://www.peazip.org/translation-peazip-arabic-tutorial.html Arabic]
-
 == [http://peazip.sourceforge.net/peazip-help-faq.html FAQ] ==
 
 == [http://peazip.sourceforge.net/donations.html Donations] ==
