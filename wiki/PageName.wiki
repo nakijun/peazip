@@ -2,4 +2,4 @@
 #labels Featured
 
 = Translated Tutorials =
-[http://www.peazip.org/translation-peazip-arabic-tutorial.html Arabic], [http://www.peazip.org/translation-peazip-basque-help.html Basque], [http://www.peazip.org/translation-peazip-belarusian-howto.html Belarusian], [http://www.peazip.org/translation-peazip-chinese.html http://www.peazip.org/translation-peazip-chinese.html]
+[http://www.peazip.org/translation-peazip-arabic-tutorial.html Arabic], [http://www.peazip.org/translation-peazip-basque-help.html Basque], [http://www.peazip.org/translation-peazip-belarusian-howto.html Belarusian], [http://www.peazip.org/translation-peazip-chinese.html Chinese], [http://www.peazip.org/translation-peazip-czech-documentation.html Czech], [http://www.peazip.org/translation-peazip-dutch-archiveerprogramma-uitpakken.html Dutch], [http://www.peazip.org/translation-peazip-french-logiciel-compression.html French], [http://www.peazip.org/translation-peazip-german-entpacker-programme.html German],
