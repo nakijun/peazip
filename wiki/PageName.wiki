@@ -1,0 +1,5 @@
+#summary Multilingual Tutorials
+#labels Featured
+
+= Translated Tutorials =
+[http://www.peazip.org/translation-peazip-arabic-tutorial.html Arabic], [http://www.peazip.org/translation-peazip-basque-help.html Basque], [http://www.peazip.org/translation-peazip-belarusian-howto.html Belarusian], [http://www.peazip.org/translation-peazip-chinese.html http://www.peazip.org/translation-peazip-chinese.html]
