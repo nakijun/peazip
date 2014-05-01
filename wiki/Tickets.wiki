@@ -1,0 +1,2 @@
+#labels Featured
+Issue tracker has moved to [http://sourceforge.net/p/peazip/tickets/ SourceForge]
