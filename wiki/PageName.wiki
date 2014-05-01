@@ -1,2 +1,0 @@
-#labels Featured
-[http://sourceforge.net/p/peazip/tickets/] Issue Tracker
