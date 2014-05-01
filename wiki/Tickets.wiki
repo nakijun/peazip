@@ -1,4 +1,4 @@
 #labels Featured
-PeaZip's Issue tracker has moved to [http://sourceforge.net/p/peazip/tickets/ SourceForge] in January 2014, and existing issues were imported in SourceForge's Ticket system.
+PeaZip Issue tracker has moved to [http://sourceforge.net/p/peazip/tickets/ SourceForge] in January 2014, and existing issues were imported in SourceForge Ticket system.
 
 Currently no way is provided from GoogleCode to set the old tracker offline or in read only mode, I apologize for the inconvenient.
