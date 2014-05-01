@@ -1,2 +1,3 @@
 #labels Featured
-Issue tracker has moved to [http://sourceforge.net/p/peazip/tickets/ SourceForge]
+Issue tracker has moved to [http://sourceforge.net/p/peazip/tickets/ SourceForge].
+Currently no way is provided from GoogleCode to set the old tracker offline or in read only mode, I apologize for the inconvenient.
