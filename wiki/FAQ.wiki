@@ -1,5 +1,6 @@
 #summary PeaZip free archiver FAQ and Tips&Tricks
 #labels Featured
+Here follows a series of FAQ, How To, and Tips&Tricks about most common topics asked about usage of PeaZip as file manager and archive manager:
 
 = PeaZip [http://peazip.sourceforge.net/peazip-help-faq.html FAQ] higlights =
 
@@ -28,6 +29,8 @@
 
 [http://peazip.sourceforge.net/backup-files.html Backup files with PeaZip]
 
+[http://http://peazip.sourceforge.net/batch-file-rename.html Batch file renaming]
+
 [http://peazip.sourceforge.net/optimize-virtual-machines-backup-images.html Optimize disk occupation of virtual machines and backup images]
 
 [http://peazip.sourceforge.net/convert-files.html Convert existing archive files]
@@ -37,6 +40,14 @@
 [http://peazip.sourceforge.net/share-files-sharing.html Share files with PeaZip]
 
 [http://peazip.sourceforge.net/file-split.html Split and join files with PeaZip]
+
+*Image viewer and graphic files editor*
+
+[http://peazip.sourceforge.net/compress-resize-jpeg-png-files.html Compression and optimization of digital images]
+
+[http://peazip.sourceforge.net/edit-graphic-files.html How to rotate, resize, and convert pictures]
+
+[http://peazip.sourceforge.net/image-viewer.html Browse image collections]
 
 
 *Security*
