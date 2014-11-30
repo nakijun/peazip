@@ -1,6 +1,8 @@
 #summary Learn more about PeaZip free archive manager
 #labels Featured
 
+== [http://peazip.sourceforge.net/index.html Downloads] ==
+
 == [http://peazip.sourceforge.net/peazip-free-archiver.html Learn More] ==
 
 == [http://peazip.sourceforge.net/changelog.html Change Log] ==
@@ -15,8 +17,10 @@
 
 == [http://peazip.sourceforge.net/peazip-help.html Online Help] ==
 
-== [http://peazip.sourceforge.net/peazip-help-faq.html Archive management FAQ] ==
-== [http://peazip.sourceforge.net/peazip-help-faq-file-manager.html File management FAQ] ==
-== [http://peazip.sourceforge.net/peazip-help-faq-security.html Security FAQ] ==
+== [http://peazip.sourceforge.net/peazip-help-faq.html FAQ | Archive management] ==
+
+== [http://peazip.sourceforge.net/peazip-help-faq-file-manager.html FAQ | File management] ==
+
+== [http://peazip.sourceforge.net/peazip-help-faq-security.html FAQ | Security] ==
 
 == [http://peazip.sourceforge.net/donations.html Donations] ==
