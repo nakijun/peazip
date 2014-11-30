@@ -18,7 +18,7 @@
 *[http://peazip.sourceforge.net/search-software-tracker.html Search Issue tracker]*
 
 == [http://peazip.sourceforge.net/peazip-help-faq.html Archive management FAQ] ==
-*[http://peazip.sourceforge.net/peazip-help-faq-file-manager.html File management FAQ*
+*[http://peazip.sourceforge.net/peazip-help-faq-file-manager.html File management FAQ]*
 *[http://peazip.sourceforge.net/peazip-help-faq-security.html Security FAQ]*
 
 == [http://peazip.sourceforge.net/donations.html Donations] ==
